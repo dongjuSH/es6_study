@@ -105,7 +105,7 @@ gulp.task('pc-all', function(){
             index: "work_list.html"
         },
         ui: false,
-        port:1280
+        port:1290
     });
 
     gulp.watch(typeRoot.srcPcA + paths.stylesheets + '/**/*.scss', ['pc-sass']);
