@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+/* Font style setting */
+$roboto:"Roboto", "Apple SD Gothic Neo", Arial, Apple SD Gothic Neo, sans-serif;
+$bebasNeue:"Bebas Neue", "Apple SD Gothic Neo", Arial, Apple SD Gothic Neo, sans-serif;
+
+/* Point color setting */
+$black:#000;
+$white:#fff;
+
+$gray1:#f5f5f5;
+$gray2:#e3e3e3;
+
+/**
+ * BASE SETTING
+ */
+$base-font:"Roboto", "Apple SD Gothic Neo", AppleGothic, Arial, Helvetica, sans-serif;
+$base-font_mobile:"Apple SD Gothic Neo", "Roboto", AppleGothic, Arial, Helvetica, sans-serif;
+$base-font-size:20px;
+$base-font-color:$black;
+
+$letter-spacing:0;
+
+$light:300;
+$regular:400;
+$medium:500;
+$semi-bold:600;
+$bold:700;
+$extra-bold:900;
